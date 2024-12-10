@@ -1,7 +1,7 @@
 #### Step 1: Open a list of your currently installed programs and Type into Terminal:
 
 
-      diff dpkg -l 
+      dpkg -l 
  
 ![image](https://github.com/user-attachments/assets/d2b69f66-87ba-4ba0-97dd-73b5af6fad21) 
 
