@@ -10,3 +10,13 @@
     sudo apt-get install package_name
 
 ##### You will see an input prompt, which will ask if you want to continue or not, for installing the software you will have to simply type "Y" and your software will begin downloading as well as installing.
+
+
+### Install .deb files
+
+install a .deb file by opening a terminal and typing:
+
+
+
+
+    sudo dpkg -i package_file.deb
