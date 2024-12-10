@@ -11,6 +11,8 @@
 
 ##### You will see an input prompt, which will ask if you want to continue or not, for installing the software you will have to simply type "Y" and your software will begin downloading as well as installing.
 
+<br/>
+
 
 ### Install .deb files
 
